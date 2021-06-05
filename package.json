@@ -17,6 +17,10 @@
       {
         "language": "json",
         "path": "./snippets/server.json"
+      },
+      {
+        "language": "json",
+        "path": "./snippets/certificate.json"
       }
     ]
   },

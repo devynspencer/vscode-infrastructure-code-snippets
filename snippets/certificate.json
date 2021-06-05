@@ -1,0 +1,12 @@
+{
+  "inf_new_certificate": {
+    "prefix": "inf.certificate",
+    "body": [
+      "{",
+      "\t\"thumbprint\": \"$1\",",
+      "\t\"description\": \"$2\"",
+      "}"
+    ],
+    "description": "New certificate entry"
+  }
+}
