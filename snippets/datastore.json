@@ -1,0 +1,19 @@
+{
+  "New configuration datastore": {
+    "prefix": "inf.datastore",
+    "body": [
+      "{",
+      "\t\"certificates\": [],",
+      "\t\"credentials\": [],",
+      "\t\"environments\": [],",
+      "\t\"metrics\": [],",
+      "\t\"networks\": [],",
+      "\t\"secrets\": [],",
+      "\t\"servers\": [],",
+      "\t\"services\": [],",
+      "\t\"sites\": []",
+      "}"
+    ],
+    "description": "New configuration datastore"
+  }
+}

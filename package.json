@@ -9,7 +9,12 @@
   },
   "publisher": "devynspencer",
   "contributes": {
-    "snippets": []
+    "snippets": [
+      {
+        "language": "json",
+        "path": "./snippets/datastore.json"
+      }
+    ]
   },
   "repository": {
     "url": "https://github.com/devynspencer/vscode-infrastructure-code-snippets"
