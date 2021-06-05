@@ -1,0 +1,13 @@
+{
+  "inf_new_server": {
+    "prefix": "inf.server",
+    "body": [
+      "{",
+      "\t\"hostname\": \"$1\",",
+      "\t\"roles\": \"$2\",",
+      "\t\"site\": \"$3\"",
+      "}"
+    ],
+    "description": "New server entry"
+  }
+}
